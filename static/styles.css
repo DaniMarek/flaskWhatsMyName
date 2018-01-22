@@ -1,0 +1,10 @@
+.bg-1{
+/*	background-image: url(http://wp.patheos.com.s3.amazonaws.com/blogs/badcatholic/files/2013/07/naming-your-business.jpg);
+*/	background-color: #FE1421;
+	/*border-image-width: 100%;*/
+	color: #FFFFFF;
+}
+.container-fluid{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
